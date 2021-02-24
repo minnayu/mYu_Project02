@@ -1,5 +1,5 @@
-1)
-Minna Yu
+##
+1. Minna Yu
 2378963
 minyu@chapman.edu
 CPSC 236-03
